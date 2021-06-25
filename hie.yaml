@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "example:lib"
+
+    - path: "./pqexample/src"
+      component: "pqexample:lib"
