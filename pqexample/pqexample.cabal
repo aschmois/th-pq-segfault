@@ -1,0 +1,13 @@
+name:           pqexample
+version:        0.0.0
+build-type:     Simple
+cabal-version: >=1.8
+
+library
+  exposed-modules:
+      PQ
+  hs-source-dirs:
+      src
+  build-depends:
+    base
+  Extra-Libraries: pq

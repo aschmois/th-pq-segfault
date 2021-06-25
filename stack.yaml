@@ -1,0 +1,8 @@
+resolver: lts-18.0
+
+# extra-deps:
+  # - HDBC-postgresql-2.5.0.0
+
+packages:
+  - .
+  - ./pqexample
